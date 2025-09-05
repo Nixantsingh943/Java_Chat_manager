@@ -130,7 +130,3 @@ chat-application/
 ---
 
 
-
-
-
-Would you like me to also **write the ChatServer.java code** (to pair with this client), so the README has both codes ready-to-run?
