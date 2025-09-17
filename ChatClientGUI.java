@@ -137,7 +137,7 @@ public class ChatClientGUI {
                     }
                 }
             } catch (IOException e) {
-                appendMessage("", "Connection lost.", Color.BLUE, true);
+                appendMessage("", "Connection lost.", Color.RED, true);
             }
         }
     }
